@@ -12,7 +12,7 @@ The model is designed to replicate real-world FP&A workflows, including forecast
 
 ##  Dashboard Preview
 
-![Dashboard](Dashboard_base_scenario.png/Images/Dashboard_base_scenario.png)
+![Dashboard](saas-fpa-financial-model/Images/Dashboard_base_scenario.png)
 
 ---
 
