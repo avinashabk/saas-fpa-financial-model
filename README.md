@@ -12,7 +12,7 @@ The model is designed to replicate real-world FP&A workflows, including forecast
 
 ##  Dashboard Preview
 
-![Dashboard](Dashboard_base_scenario.png)
+![Dashboard](Dashboard_base_scenario.png/images/Dashboard_base_scenario.png)
 
 ---
 
